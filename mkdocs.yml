@@ -1,0 +1,10 @@
+site_name: Greeter Docs
+
+theme:
+  name: readthedocs
+
+
+plugins:
+  - search
+  - literate-nav:
+      nav_file: SUMMARY.md

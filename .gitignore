@@ -10,13 +10,14 @@ gfxrecon_capture_*
 .mono/
 data_*/
 
+# gd-plug
+.plugged/
+addons/*
+!addons/gd-plug/
+!addons/greeter/
+
 # Python-specific ignores
 venv/
-
-# Export output
-dist/
-build/
-override.cfg
 
 # Docs output
 reference.json

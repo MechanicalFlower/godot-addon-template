@@ -1,3 +1,2 @@
 [codespell]
-skip = assets/**
-ignore-words-list = lod,LOD
+skip = addons/gd-plug/**,addons/gut/**

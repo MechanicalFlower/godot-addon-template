@@ -6,3 +6,15 @@ Source: https://github.com/MechanicalFlower/godot-addons-template
 Files: *
 Copyright: 2023-present Florian Vazelle
 License: MIT
+
+# Addons
+
+Files: addons/gd-plug/*
+Copyright: 2021 Tan Jian Ping
+License: MIT
+Source: https://github.com/imjp94/gd-plug
+
+Files: addons/gut/*
+Copyright: 2018 Tom "Butch" Wesley
+License: MIT
+Source: https://github.com/bitwes/Gut

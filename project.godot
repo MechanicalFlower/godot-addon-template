@@ -12,3 +12,7 @@ config_version=5
 
 config/name="Greeter"
 config/features=PackedStringArray("4.2")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/greeter/plugin.cfg", "res://addons/gut/plugin.cfg")
